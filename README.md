@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📊 Proyecto de Análisis de Campañas en Redes Sociales
 
@@ -103,3 +104,11 @@ Este proyecto está bajo la licencia [CC BY-NC-SA 4.0](https://creativecommons.o
 Esto significa que puedes compartir y adaptar el material, siempre que se cite adecuadamente, no se use para fines comerciales y se mantenga la misma licencia en los derivados.
 
 Fuente original de datos: [Kaggle](https://www.kaggle.com/)
+=======
+# Social_Media_Dashboard_Excel
+Dashboard de campaña en redes sociales mediante Excel 
+
+Datos: https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset
+
+Transformación: Separamos la columna que contiene unido edad y género en dos distintas
+>>>>>>> c0f6ef335a256d734911cebbdae729f9eebdc9d7
