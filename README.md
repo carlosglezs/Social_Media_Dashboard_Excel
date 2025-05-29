@@ -29,7 +29,7 @@ Este proyecto tiene como objetivo analizar el rendimiento de diversas campañas 
 
 ## 📥 Fuente de Datos
 
-**Fuente**: [Kaggle]  
+**Fuente**: [Kaggle] 
 **Nombre del dataset**: [Social Media Advertising]
 
 ---
@@ -88,7 +88,7 @@ Incluye:
 
 ## 👤 Autor
 
-**[Tu nombre aquí]**
+Carlos González (https://github.com/carlosglezs/)
 
 ---
 
